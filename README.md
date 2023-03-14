@@ -19,7 +19,7 @@ Contate-me!
   <a href="mailto:jvitorgodoy92@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-godoy-9b70a9261/">
+  <a href="https://www.linkedin.com/in/joao-vitor-degodoy/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="link-logo"/>
   </a>
 </div>
