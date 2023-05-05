@@ -8,6 +8,7 @@ Faço projetos com:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS-Logo" height="30px" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS-Logo" height="30px" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React-Logo" height="30px" width="40px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node-Logo" height="30px" width="40px"/>
 </div>
 <br><br>
 
